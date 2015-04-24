@@ -301,11 +301,11 @@ good_block_ratio = 0
 [disp_init]
 disp_init_enable = 1
 disp_mode = 0
-screen0_output_type = 3
+screen0_output_type = 1
 screen0_output_mode = 5
 screen1_output_type = 1
 screen1_output_mode = 4
-fb0_framebuffer_num = 2
+fb0_framebuffer_num = 3
 fb0_format = 10
 fb0_pixel_sequence = 0
 fb0_scaler_mode_enable = 0
